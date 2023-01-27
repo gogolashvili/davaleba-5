@@ -1,0 +1,87 @@
+.cont {
+  background-color: #f5f5f5;
+  width: 1440px;
+  margin: 0 auto;
+}
+.zootopia {
+  width: 212px;
+  height: 30px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.manu {
+  height: 40px;
+  margin-left: 1007px;
+  display: inline-block;
+  vertical-align: middle;
+}
+header {
+  background-color: #ffffff;
+  width: 1440px;
+  height: 160px;
+  padding: 53px 80px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.dog {
+  width: 1280px;
+  height: 720px;
+  margin-top: 90px;
+  margin-left: 80px;
+}
+.sect1 {
+  position: relative;
+}
+span {
+  position: absolute;
+  top: 372px;
+  left: 428px;
+  color: #fdf50e;
+  font-size: 40px;
+  font-family: "BPG Glaho", sans-serif;
+  width: 584px;
+  height: 156px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  color: #125806;
+  width: 785px;
+  height: 52px;
+  margin-top: 206px;
+  margin-left: 80px;
+  font-family: "BPG Glaho", sans-serif;
+}
+.divphoto1 {
+  margin-top: 74px;
+  margin-left: 80px;
+}
+.img2 {
+  margin-left: 28px;
+}
+.img3 {
+  display: block;
+  margin-top: 28px;
+  margin-left: 80px;
+}
+.divphoto2 {
+  display: inline-block;
+}
+.divphoto3 {
+  display: inline-block;
+}
+.img4 {
+  margin-left: 28px;
+}
+footer {
+  width: 1440px;
+  height: 292px;
+  background-color: #ffffff;
+  margin-top: 166px;
+}
+footer .img5 {
+  margin-top: 50px;
+  margin-left: 80px;
+  width: 142px;
+  height: 20px;
+}
