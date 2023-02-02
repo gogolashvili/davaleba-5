@@ -85,3 +85,19 @@ footer .img5 {
   width: 142px;
   height: 20px;
 }
+footer h3 {
+  font-size: 20px;
+  font-family: "BPG Glaho", sans-serif;
+  display: inline-block;
+  margin-top: 57px;
+  margin-left: 901px;
+}
+footer ul {
+  margin-top: 54px;
+  margin-left: 1123px;
+  font-size: 16px;
+  font-family: "BPG Glaho", sans-serif;
+}
+.li2 {
+  margin-top: 17px;
+}
